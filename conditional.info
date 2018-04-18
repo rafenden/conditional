@@ -1,0 +1,5 @@
+name = Conditional
+description = Define dependencies between form elements based on their states and values.
+core = 7.x
+
+files[] = includes/Conditional.php
